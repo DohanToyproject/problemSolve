@@ -38,3 +38,25 @@ for i in range(lineNum):
       print("*")
    print("\n")
 ```
+
+## Activity History
+
+Find three problems with low, medium, or high difficulty levels
+
+- https://codeup.kr/problem.php?id=1011
+- https://codeup.kr/problem.php?id=6026
+- https://www.acmicpc.net/problem/2798
+- https://www.acmicpc.net/problem/11021
+- https://school.programmers.co.kr/learn/courses/30/lessons/181913
+- https://www.acmicpc.net/problem/22966
+- https://www.acmicpc.net/problem/5597
+- https://school.programmers.co.kr/learn/courses/30/lessons/172928
+- https://www.acmicpc.net/problem/2588
+- https://www.acmicpc.net/problem/1001
+- https://www.acmicpc.net/problem/2566
+- https://school.programmers.co.kr/learn/courses/30/lessons/181916
+- https://www.acmicpc.net/problem/2675
+- https://www.acmicpc.net/problem/10886
+- https://www.acmicpc.net/problem/8958
+- https://www.acmicpc.net/problem/14398
+- https://www.acmicpc.net/problem/22864

@@ -10,7 +10,7 @@ public class Main {
         System.out.print("S를 입력하세요: ");
         String S = scanner.nextLine();
 
-        System.out.print(“R을 입력하세요: ");
+        System.out.print("R을 입력하세요: ");
         int R = scanner.nextInt();
 
         String P = repeatCharacters(S, R);
